@@ -52,3 +52,9 @@ compile_commands.json
 *creator.user*
 
 *_qmlcache.qrc
+
+# Qt creator standard build folder
+build/
+build-*/
+[Bb]uild/
+/Makefile*
