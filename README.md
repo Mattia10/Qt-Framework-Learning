@@ -24,3 +24,6 @@ Through these implementations, I have gained hands-on experience with the core p
 
 **Build Systems:** Managing projects using **CMake**.
 
+---
+
+Course reference: [Qt 6 Widgets for Beginners with C++](https://www.udemy.com/course/qt-widgets-beginners/)
